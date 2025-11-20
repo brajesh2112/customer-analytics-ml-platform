@@ -291,25 +291,9 @@ When presenting this project:
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-- LinkedIn: [Your Profile]
-- GitHub: [Your Username]
-- Email: [Your Email]
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 🙏 Acknowledgments
 
 - Dataset: [Kaggle Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
-- Built for: Infosys Data Science Analyst Position
 - Technologies: Python, Streamlit, Scikit-learn, SQL
 
 ---
@@ -319,4 +303,4 @@ This project is open source and available under the MIT License.
 If this project helped you, please give it a ⭐ on GitHub!
 
 
-**Ready for Infosys Data Science Analyst interviews!** 🚀
+
