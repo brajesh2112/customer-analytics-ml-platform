@@ -1,4 +1,4 @@
-# 📊 Marketing Analytics Dashboard - Enhanced Edition
+# 📊 Marketing Analytics Dashboard
 
 An advanced Streamlit-based analytics dashboard designed for the **Infosys Data Science Analyst role**, featuring SQL integration, multiple ML models, statistical analysis, and comprehensive business intelligence capabilities.
 
@@ -317,5 +317,6 @@ This project is open source and available under the MIT License.
 ## ⭐ Show Your Support
 
 If this project helped you, please give it a ⭐ on GitHub!
+
 
 **Ready for Infosys Data Science Analyst interviews!** 🚀
